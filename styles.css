@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    background-color: aliceblue;
+}
+
+header{
+    background-color: rgba(196, 196, 196, 1);
+    width: 1440px;
+    height: 150px;
+    padding: 60px 20px 60px 20px;
+}
+
+
+
+nav ul li{
+    float: left;
+    margin-right: 20px;
+  font-size: 18px;
+}
+
+.opasiti{
+    width: 1440px;
+    height: 400px; opacity: 0.6;
+    
+}
+.slider img{
+    width: 1440px;
+    height: 400px;
+  padding-bottom: 20px;
+}
+
+
+
+
+article{
+
+    width: 457px;
+    
+    background-color:rgba(255, 153, 0, 1) ;
+}
+.statia{
+    width: 100%;
+}
+.statia img{
+
+    width: 100%;
+    height: 200px;
+}
+article section h2{
+    font-size: 18px;
+    color:rgba(0, 0, 0, 1) ;
+
+    
+}
+
+article section p{
+
+    font-size: 12px;
+}
+
+
+article{
+    float: left;
+    
+}
+
+
+
+.feri2{
+
+    background-color: rgba(255, 199, 0, 1);
+}
+
+.feri3{
+    background-color: rgba(255, 230, 0, 1);
+}
+
+
+
+.artikli{
+    margin-left: 32px;
+    margin-top: -20px;
+  
+}
+
+article section{
+    padding-left: 6px;
+}
+
+
+
+footer{
+    clear: both;
+    width: 1440px;
+    height: 140px;
+    background-color: rgba(196, 196, 196, 1);
+    padding-top: 75px;
+    padding-left: 15px;
+
+}
+
+
+/*------------- productia styles*/
+
+
+main .produqcia{
+width: 1370px;
+height: 741px;
+background-color:rgba(255, 199, 0, 1);
+margin:20px 20px 10px 34px;
+
+}
+
+.fotoebi p img{
+    width:456px;
+    height: 150px;
+    float: left;
+    margin-top: 150px;
+}
+
+
+
+/*------------ sixleebi styles ---------*/
+
+
+main .siaxleebi{
+    width: 1370px;
+    height: 741px;
+    background-color:rgba(255, 153, 0, 1) ;
+    margin:20px 20px 10px 34px;
+    
+    }
+    
+    .fotoebi p img{
+        width:456px;
+        height: 150px;
+        float: left;
+        margin-top: 150px;
+    }
+    
+
+/* ------------------- filialebi styles --------------------------- */
+
+
+
+
+
+main .filialebi{
+    width: 1370px;
+    height: 741px;
+    background-color:rgba(255, 153, 0, 1) ;
+    margin:20px 20px 10px 34px;
+    
+    }
+    
+    .fotoebi p img{
+        width:456px;
+        height: 150px;
+        float: left;
+        margin-top: 150px;
+    }
+    
+
+    
